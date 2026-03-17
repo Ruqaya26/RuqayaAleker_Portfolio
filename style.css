@@ -621,7 +621,7 @@ width:70px;
 nav{
 display: inline;
 position:absolute;
-top:80px;
+top:80 0px;
 left:0;
 width:100%;
 background:#310c36;
