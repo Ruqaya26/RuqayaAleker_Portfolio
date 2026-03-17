@@ -633,7 +633,7 @@ display:flex;
 
 nav a{
 margin: 0 10px;
-font-size:16px;
+font-size:10px;
 }
 
 /* HERO */
@@ -659,6 +659,7 @@ transform:none;
 
 .hero-text h1{
 font-size:50px;
+text-align:centre;
 }
 
 .hero-text p{
